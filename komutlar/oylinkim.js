@@ -1,7 +1,7 @@
 const Discord = require ("discord.js");
 exports.run = (client, message) => {
     let deathhcodeteam = new Discord.MessageEmbed()
-    .setDescription('Oy Linkim İçin [Buraya Tıkla](Oy linkini koyun buraya)')
+    .setDescription('Şu An Bakımda)')
     message.channel.send(deathhcodeteam)
     };
 exports.conf = {

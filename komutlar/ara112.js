@@ -2,7 +2,7 @@ const Discord = require ("discord.js");
 exports.run = (client, message) => {
 const Embed = new Discord.MessageEmbed()
 .setColor("BLUE")
-.setImage("https://tenor.com/view/dancing-lit-police-happy-dance-gif-12605155%22")
+.setImage("https://c.tenor.com/44i7dotC7O8AAAAC/cops-polic%C3%ADa.gif")
 .setFooter(client.user.username + "", client.user.avatarURL)
 .setTimestamp();
 return message.channel.send(Embed)
@@ -15,7 +15,7 @@ enabled: true,
     permLevel: 0 
 };
   exports.help = {
-    name: 'ara155', 
-    description: 'Murat Eren', 
-    usage: 'ara155'
+    name: 'ara112', 
+    description: 'Efe Can Çınar', 
+    usage: 'ara112'
 };
