@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 exports.run = (client, message) => {
   if (message.author.id === ayarlar.sahip) {
-    message.channel.send("Ölçemedim Ab Cok Büyük")
+    message.channel.send("Ölçemedim Ab Çok Büyük")
   } else {
   
    message.channel.send('Bir dakika abi...').then(message => {

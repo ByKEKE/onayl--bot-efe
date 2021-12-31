@@ -2,7 +2,7 @@ const Discord = require ("discord.js");
 exports.run = (client, message) => {
 const Embed = new Discord.MessageEmbed()
 .setColor("BLACK")
-.setImage("https://tenor.com/view/cow-wig-gif-19175049")
+.setImage("https://c.tenor.com/qd5BeQ6e_GgAAAAi/cow-moo.gif")
 .setFooter(client.user.username + "", client.user.avatarURL)
 .setTimestamp();
 return message.channel.send(Embed)
