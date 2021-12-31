@@ -6,7 +6,7 @@ let user = message.author.username;
 let guild = message.guild.name;
 let guildid = message.guild.id;
 let kanal = message.channel.name;
-let channel = bot.channels.cache.get(ayarlar.bugkanalid)//bug repot kanal id'i
+let channel = bot.channels.cache.get(ayarlar.')//bug repot kanal id'i
 let embed = new Discord.MessageEmbed()
 .setTitle("Bug Report")
 .setThumbnail(message.author.avatarURL())
