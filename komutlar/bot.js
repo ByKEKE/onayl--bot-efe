@@ -7,7 +7,7 @@ exports.run = async (client, message, args) => {
 
 
 
-.setColor('YELLOW')
+.setColor('RED')
   .setTitle('Bot Yardım Menüsü')
   .setDescription(`
 
@@ -29,7 +29,7 @@ exports.run = async (client, message, args) => {
 
 
 💥Bağlantılar 
-**» Botun Destek sunucusu** [Destek sunucusu](https://discord.gg/erTqUNqSUd)
+**» Botun Destek sunucusu** [Destek sunucusu](https://discord.gg/bKW9KxwAd5)
 
 `)
 

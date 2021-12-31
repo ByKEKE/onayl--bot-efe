@@ -22,9 +22,9 @@ exports.run = async (client, message, args) => {
 
 💥Bağlantılar 
 
-**» Botun Destek sunucusu** [Destek sunucusu](https://discord.gg/erTqUNqSUd)
+**» Botun Destek sunucusu** [Destek sunucusu](https://discord.gg/bKW9KxwAd5)
 `)
-.setImage("https://media.discordapp.net/attachments/773998338999058453/790319445381873684/standard.gif")
+.setImage("")
 
  message.channel.send(embed) 
 

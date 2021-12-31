@@ -7,8 +7,9 @@ var prefix = ayarlar.prefix;
 
 module.exports = client => {
 var oyun = [
- 'YouTube : Murat Eren',
- 'Abone Ol!'
+ 'YouTube : Efe Can Çınar',
+ 'Davet Et : !davet'
+  YouTube : Efe Can Çınar',
  
     ];
 
